@@ -1,5 +1,5 @@
 # 夏目悠李/男声歌声データベースの最新ラベルデータ
-データベース本体の概要については<a href="https://amanokei.hatenablog.com/entry/2020/04/30/230003">こちら</a>からどうぞ
+データベース本体の概要については<a href="https://amanokei.hatenablog.com/entry/2020/04/30/230003">こちら</a>からどうぞ<br>
 利用規約は<a href="https://amanokei.hatenablog.com/entry/2020/04/30/225933">こちら</a>から確認できます
 
 ## 更新履歴
