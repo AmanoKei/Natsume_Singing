@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="114.0000000000000" />
 </direction>
+<sound tempo="114.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>114.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="114.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -116,7 +126,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>
@@ -273,7 +283,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -438,6 +448,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="start" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>や</text>
@@ -449,6 +462,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="stop" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>あ</text>
@@ -1037,6 +1053,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="start" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>ら</text>
@@ -1048,6 +1067,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="stop" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>あ</text>
@@ -1409,7 +1431,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1615,6 +1637,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="start" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>ろ</text>
@@ -1626,6 +1651,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="stop" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>お</text>
@@ -1904,7 +1932,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -2214,6 +2242,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="start" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>よ</text>
@@ -2225,6 +2256,9 @@
 <octave>3</octave>
 </pitch>
 <duration>240</duration>
+<notations>
+<slur type="stop" />
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>お</text>

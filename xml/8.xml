@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="124.0000000000000" />
 </direction>
+<sound tempo="124.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>124.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="124.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -334,7 +344,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 </measure>
@@ -413,15 +423,16 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>しょ</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="7">
@@ -697,15 +708,16 @@
 <step>E</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>ら</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="9">
@@ -1072,7 +1084,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1246,7 +1258,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1550,15 +1562,16 @@
 <step>E</step>
 <octave>3</octave>
 </pitch>
-<duration>720</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>ら</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>240</duration>
 </note>
 </measure>
 <measure number="17">
@@ -1889,7 +1902,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>
@@ -2334,15 +2347,16 @@
 <step>E</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>ら</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="25">

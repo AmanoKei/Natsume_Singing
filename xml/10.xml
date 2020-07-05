@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="102.0000000000000" />
 </direction>
+<sound tempo="102.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>102.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="102.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>3</beats>
@@ -256,15 +266,16 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>し</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="12">
@@ -562,15 +573,16 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>き</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="20">
@@ -690,15 +702,16 @@
 <step>G</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>す</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="24">
@@ -1047,15 +1060,16 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>1440</duration>
+<duration>1920</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>も</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 </measure>
 <measure number="34">
@@ -1248,7 +1262,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>
@@ -1637,11 +1651,15 @@
 <step>C</step>
 <octave>4</octave>
 </pitch>
-<duration>960</duration>
+<duration>720</duration>
 <lyric>
 <syllabic>single</syllabic>
 <text>わ</text>
 </lyric>
+</note>
+<note>
+<rest />
+<duration>240</duration>
 </note>
 </measure>
 <measure number="51">

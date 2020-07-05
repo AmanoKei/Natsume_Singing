@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="120.0000000000000" />
 </direction>
+<sound tempo="120.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>120.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="120.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -715,15 +725,16 @@
 <alter>1</alter>
 <octave>4</octave>
 </pitch>
-<duration>1200</duration>
+<duration>1680</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>え</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>480</duration>
 </note>
 <note>
 <pitch>
@@ -825,16 +836,38 @@
 <octave>3</octave>
 </pitch>
 <duration>480</duration>
+<tie type="start" />
+<notations>
+<tied type="start" />
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
-<syllabic>single</syllabic>
-<text>を</text>
+<syllabic>begin</syllabic>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>
 <measure number="109">
 <note>
-<rest />
+<pitch>
+<step>F</step>
+<alter>1</alter>
+<octave>3</octave>
+</pitch>
 <duration>480</duration>
+<tie type="stop" />
+<notations>
+<tied type="stop" />
+<technical>
+<up-bow />
+</technical>
+</notations>
+<lyric>
+<syllabic>end</syllabic>
+<text />
+</lyric>
 </note>
 <note>
 <pitch>
@@ -908,9 +941,14 @@
 <octave>3</octave>
 </pitch>
 <duration>720</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -988,16 +1026,37 @@
 <octave>3</octave>
 </pitch>
 <duration>480</duration>
+<tie type="start" />
+<notations>
+<tied type="start" />
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>begin</syllabic>
 <text>ら</text>
 </lyric>
 </note>
 </measure>
 <measure number="111">
 <note>
-<rest />
+<pitch>
+<step>G</step>
+<octave>3</octave>
+</pitch>
 <duration>480</duration>
+<tie type="stop" />
+<notations>
+<tied type="stop" />
+<technical>
+<up-bow />
+</technical>
+</notations>
+<lyric>
+<syllabic>end</syllabic>
+<text />
+</lyric>
 </note>
 <note>
 <pitch>
@@ -1040,7 +1099,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1275,7 +1334,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>

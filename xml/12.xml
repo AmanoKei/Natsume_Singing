@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="63.0000000000000" />
 </direction>
+<sound tempo="63.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>63.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="63.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -344,15 +354,16 @@
 <step>D</step>
 <octave>3</octave>
 </pitch>
-<duration>600</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>の</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>360</duration>
 </note>
 </measure>
 <measure number="7">
@@ -488,15 +499,16 @@
 <step>C</step>
 <octave>4</octave>
 </pitch>
-<duration>480</duration>
+<duration>720</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>も</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>240</duration>
 </note>
 <note>
 <pitch>
@@ -602,7 +614,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -948,11 +960,15 @@
 <step>G</step>
 <octave>3</octave>
 </pitch>
-<duration>720</duration>
+<duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
 <text>に</text>
 </lyric>
+</note>
+<note>
+<rest />
+<duration>240</duration>
 </note>
 <note>
 <pitch>
@@ -984,7 +1000,7 @@
 <duration>240</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>
@@ -1015,15 +1031,16 @@
 <step>D</step>
 <octave>3</octave>
 </pitch>
-<duration>600</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>う</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>360</duration>
 </note>
 </measure>
 <measure number="15">
@@ -1079,7 +1096,7 @@
 <duration>1200</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1159,15 +1176,16 @@
 <step>C</step>
 <octave>4</octave>
 </pitch>
-<duration>480</duration>
+<duration>720</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>れ</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>240</duration>
 </note>
 <note>
 <pitch>
@@ -1190,7 +1208,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1390,7 +1408,7 @@
 <duration>1200</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1686,15 +1704,16 @@
 <step>D</step>
 <octave>3</octave>
 </pitch>
-<duration>720</duration>
+<duration>960</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>る</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>240</duration>
 </note>
 </measure>
 <measure number="23">
@@ -1800,7 +1819,7 @@
 <duration>360</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>っ</text>
+<text>いっ</text>
 </lyric>
 </note>
 <note>
@@ -1830,15 +1849,16 @@
 <step>C</step>
 <octave>4</octave>
 </pitch>
-<duration>480</duration>
+<duration>720</duration>
+<notations>
+<technical>
+<up-bow />
+</technical>
+</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>も</text>
 </lyric>
-</note>
-<note>
-<rest />
-<duration>240</duration>
 </note>
 <note>
 <pitch>
@@ -1945,7 +1965,7 @@
 <duration>240</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -2112,7 +2132,7 @@
 <duration>240</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>

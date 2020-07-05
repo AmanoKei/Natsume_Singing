@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="110.0000000000000" />
 </direction>
+<sound tempo="110.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>110.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="110.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -1843,7 +1853,7 @@
 <tied type="stop" />
 </notations>
 <lyric>
-<syllabic>end</syllabic>
+<syllabic>middle</syllabic>
 <text />
 </lyric>
 </note>
@@ -1854,7 +1864,7 @@
 </pitch>
 <duration>2640</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>し</text>
 </lyric>
 </note>
@@ -1871,7 +1881,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>て</text>
 </lyric>
 </note>
@@ -1882,7 +1892,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ん</text>
 </lyric>
 </note>
@@ -1893,7 +1903,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>じょ</text>
 </lyric>
 </note>
@@ -1904,7 +1914,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>お</text>
 </lyric>
 </note>
@@ -1917,7 +1927,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>か</text>
 </lyric>
 </note>
@@ -1928,7 +1938,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>げ</text>
 </lyric>
 </note>
@@ -1939,7 +1949,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>わ</text>
 </lyric>
 </note>
@@ -1956,7 +1966,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>か</text>
 </lyric>
 </note>
@@ -1967,7 +1977,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>わ</text>
 </lyric>
 </note>
@@ -1978,7 +1988,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ら</text>
 </lyric>
 </note>
@@ -1989,7 +1999,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ね</text>
 </lyric>
 </note>
@@ -2002,7 +2012,7 @@
 </pitch>
 <duration>2160</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ど</text>
 </lyric>
 </note>
@@ -2019,7 +2029,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>え</text>
 </lyric>
 </note>
@@ -2030,7 +2040,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>い</text>
 </lyric>
 </note>
@@ -2041,7 +2051,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>こ</text>
 </lyric>
 </note>
@@ -2052,7 +2062,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>わ</text>
 </lyric>
 </note>
@@ -2065,7 +2075,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>う</text>
 </lyric>
 </note>
@@ -2076,7 +2086,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>つ</text>
 </lyric>
 </note>
@@ -2087,7 +2097,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>る</text>
 </lyric>
 </note>
@@ -2104,7 +2114,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>よ</text>
 </lyric>
 </note>
@@ -2115,7 +2125,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>の</text>
 </lyric>
 </note>
@@ -2126,7 +2136,7 @@
 </pitch>
 <duration>1440</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>す</text>
 </lyric>
 </note>
@@ -2137,7 +2147,7 @@
 </pitch>
 <duration>480</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>が</text>
 </lyric>
 </note>
@@ -2150,7 +2160,7 @@
 </pitch>
 <duration>2160</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>た</text>
 </lyric>
 </note>
@@ -2167,7 +2177,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>う</text>
 </lyric>
 </note>
@@ -2178,7 +2188,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>つ</text>
 </lyric>
 </note>
@@ -2189,7 +2199,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>さ</text>
 </lyric>
 </note>
@@ -2200,7 +2210,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ん</text>
 </lyric>
 </note>
@@ -2213,7 +2223,7 @@
 </pitch>
 <duration>1440</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>と</text>
 </lyric>
 </note>
@@ -2224,7 +2234,7 @@
 </pitch>
 <duration>480</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>て</text>
 </lyric>
 </note>
@@ -2235,7 +2245,7 @@
 </pitch>
 <duration>1200</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>か</text>
 </lyric>
 </note>
@@ -2252,7 +2262,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>い</text>
 </lyric>
 </note>
@@ -2263,7 +2273,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>ま</text>
 </lyric>
 </note>
@@ -2274,7 +2284,7 @@
 </pitch>
 <duration>1440</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>も</text>
 </lyric>
 </note>
@@ -2285,7 +2295,7 @@
 </pitch>
 <duration>480</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>な</text>
 </lyric>
 </note>
@@ -2298,7 +2308,7 @@
 </pitch>
 <duration>2160</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>お</text>
 </lyric>
 </note>
@@ -2315,7 +2325,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>あ</text>
 </lyric>
 </note>
@@ -2326,7 +2336,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>あ</text>
 </lyric>
 </note>
@@ -2337,7 +2347,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>こ</text>
 </lyric>
 </note>
@@ -2348,7 +2358,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>お</text>
 </lyric>
 </note>
@@ -2361,7 +2371,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>じょ</text>
 </lyric>
 </note>
@@ -2372,7 +2382,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>お</text>
 </lyric>
 </note>
@@ -2383,7 +2393,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>の</text>
 </lyric>
 </note>
@@ -2400,7 +2410,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>よ</text>
 </lyric>
 </note>
@@ -2411,7 +2421,7 @@
 </pitch>
 <duration>960</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>は</text>
 </lyric>
 </note>
@@ -2422,7 +2432,7 @@
 </pitch>
 <duration>1440</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>の</text>
 </lyric>
 </note>
@@ -2433,7 +2443,7 @@
 </pitch>
 <duration>480</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>つ</text>
 </lyric>
 </note>
@@ -2446,7 +2456,7 @@
 </pitch>
 <duration>1920</duration>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>middle</syllabic>
 <text>き</text>
 </lyric>
 </note>
