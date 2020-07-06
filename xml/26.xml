@@ -33,16 +33,6 @@
 </direction-type>
 <sound tempo="106.0000000000000" />
 </direction>
-<sound tempo="106.0000000000000" />
-<direction>
-<direction-type>
-<metronome>
-<beat-unit>quarter</beat-unit>
-<per-minute>106.0000000000000</per-minute>
-</metronome>
-</direction-type>
-<sound tempo="106.0000000000000" />
-</direction>
 <attributes>
 <time>
 <beats>3</beats>
@@ -587,7 +577,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>うぉ</text>
+<text>を</text>
 </lyric>
 </note>
 <note>
@@ -1087,7 +1077,7 @@
 <duration>720</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>うぉ</text>
+<text>を</text>
 </lyric>
 </note>
 <note>
@@ -1458,11 +1448,6 @@
 <octave>3</octave>
 </pitch>
 <duration>960</duration>
-<notations>
-<technical>
-<up-bow />
-</technical>
-</notations>
 <lyric>
 <syllabic>single</syllabic>
 <text>る</text>
