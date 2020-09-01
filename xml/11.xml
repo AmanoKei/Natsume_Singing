@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="115.0000000000000" />
 </direction>
+<sound tempo="115.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>115.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="115.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -232,21 +242,10 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>お</text>
-</lyric>
-</note>
-<note>
-<pitch>
-<step>A</step>
-<octave>3</octave>
-</pitch>
-<duration>480</duration>
-<lyric>
-<syllabic>single</syllabic>
-<text>っ</text>
+<text>おっ</text>
 </lyric>
 </note>
 <note>
@@ -372,21 +371,10 @@
 <step>A</step>
 <octave>3</octave>
 </pitch>
-<duration>320</duration>
+<duration>640</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>だ</text>
-</lyric>
-</note>
-<note>
-<pitch>
-<step>A</step>
-<octave>3</octave>
-</pitch>
-<duration>320</duration>
-<lyric>
-<syllabic>single</syllabic>
-<text>っ</text>
+<text>だっ</text>
 </lyric>
 </note>
 <note>

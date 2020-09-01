@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="136.0000000000000" />
 </direction>
+<sound tempo="136.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>136.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="136.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>
@@ -799,7 +809,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>い</text>
+<text>ゆ</text>
 </lyric>
 </note>
 <note>
@@ -1214,22 +1224,10 @@
 <alter>1</alter>
 <octave>3</octave>
 </pitch>
-<duration>480</duration>
+<duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>な</text>
-</lyric>
-</note>
-<note>
-<pitch>
-<step>F</step>
-<alter>1</alter>
-<octave>3</octave>
-</pitch>
-<duration>480</duration>
-<lyric>
-<syllabic>single</syllabic>
-<text>っ</text>
+<text>なっ</text>
 </lyric>
 </note>
 <note>
@@ -1910,7 +1908,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>
@@ -2054,7 +2052,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>
@@ -2495,7 +2493,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>

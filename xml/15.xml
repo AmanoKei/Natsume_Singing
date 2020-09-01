@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="128.0000000000000" />
 </direction>
+<sound tempo="128.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>128.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="128.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>4</beats>

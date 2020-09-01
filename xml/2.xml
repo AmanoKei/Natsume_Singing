@@ -23,15 +23,15 @@
 <mode>major</mode>
 </key>
 </attributes>
-<sound tempo="120.0000000000000" />
+<sound tempo="128.0000000000000" />
 <direction>
 <direction-type>
 <metronome>
 <beat-unit>quarter</beat-unit>
-<per-minute>120.0000000000000</per-minute>
+<per-minute>128.0000000000000</per-minute>
 </metronome>
 </direction-type>
-<sound tempo="120.0000000000000" />
+<sound tempo="128.0000000000000" />
 </direction>
 <attributes>
 <time>
@@ -665,12 +665,6 @@
 <measure number="105">
 <note>
 <rest />
-<duration>3840</duration>
-</note>
-</measure>
-<measure number="106">
-<note>
-<rest />
 <duration>2880</duration>
 </note>
 <note>
@@ -685,7 +679,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="107">
+<measure number="106">
 <note>
 <pitch>
 <step>B</step>
@@ -738,7 +732,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="108">
+<measure number="107">
 <note>
 <pitch>
 <step>C</step>
@@ -827,11 +821,11 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 </measure>
-<measure number="109">
+<measure number="108">
 <note>
 <rest />
 <duration>480</duration>
@@ -910,7 +904,7 @@
 <duration>720</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -925,7 +919,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="110">
+<measure number="109">
 <note>
 <pitch>
 <step>E</step>
@@ -994,7 +988,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="111">
+<measure number="110">
 <note>
 <rest />
 <duration>480</duration>
@@ -1040,7 +1034,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
@@ -1101,7 +1095,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="112">
+<measure number="111">
 <note>
 <pitch>
 <step>D</step>
@@ -1170,7 +1164,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="113">
+<measure number="112">
 <note>
 <pitch>
 <step>E</step>
@@ -1210,7 +1204,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="114">
+<measure number="113">
 <note>
 <pitch>
 <step>G</step>
@@ -1275,7 +1269,7 @@
 <duration>480</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>
@@ -1301,7 +1295,7 @@
 </lyric>
 </note>
 </measure>
-<measure number="115">
+<measure number="114">
 <note>
 <pitch>
 <step>G</step>
@@ -1319,10 +1313,35 @@
 <octave>3</octave>
 </pitch>
 <duration>3120</duration>
+<tie type="start" />
+<notations>
+<tied type="start" />
+</notations>
 <lyric>
-<syllabic>single</syllabic>
+<syllabic>begin</syllabic>
 <text>て</text>
 </lyric>
+</note>
+</measure>
+<measure number="115">
+<note>
+<pitch>
+<step>A</step>
+<octave>3</octave>
+</pitch>
+<duration>480</duration>
+<tie type="stop" />
+<notations>
+<tied type="stop" />
+</notations>
+<lyric>
+<syllabic>end</syllabic>
+<text />
+</lyric>
+</note>
+<note>
+<rest />
+<duration>3360</duration>
 </note>
 </measure>
 <measure number="116">

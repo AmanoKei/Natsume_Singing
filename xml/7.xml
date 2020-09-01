@@ -33,6 +33,16 @@
 </direction-type>
 <sound tempo="56.0000000000000" />
 </direction>
+<sound tempo="56.0000000000000" />
+<direction>
+<direction-type>
+<metronome>
+<beat-unit>quarter</beat-unit>
+<per-minute>56.0000000000000</per-minute>
+</metronome>
+</direction-type>
+<sound tempo="56.0000000000000" />
+</direction>
 <attributes>
 <time>
 <beats>6</beats>
@@ -1152,7 +1162,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>お</text>
 </lyric>
 </note>
 <note>
@@ -1202,7 +1212,7 @@
 <duration>960</duration>
 <lyric>
 <syllabic>single</syllabic>
-<text>を</text>
+<text>うぉ</text>
 </lyric>
 </note>
 <note>
